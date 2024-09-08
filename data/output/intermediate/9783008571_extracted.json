@@ -1,0 +1,28 @@
+[
+    {
+        "Supplier Names": "Coles Supermarkets",
+        "Location Names": "Coles",
+        "Location Details": "Cnr Pacific Hwy & Park Ave, Coffs Harbour",
+        "Dates": "2023-10-14",
+        "Line Items": [
+            {
+                "Description": "Bananas",
+                "Quantity": "1kg",
+                "Price": "3.00"
+            },
+            {
+                "Description": "Milk",
+                "Quantity": "2L",
+                "Price": "2.50"
+            },
+            {
+                "Description": "Bread",
+                "Quantity": "1 loaf",
+                "Price": "2.00"
+            }
+        ],
+        "Invoice Totals": "7.50",
+        "Emissions Amounts": null,
+        "Emissions Units": null
+    }
+]

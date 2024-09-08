@@ -1,0 +1,13 @@
+{
+  "Supplier_Name": [],
+  "Invoice_Number": [],
+  "Date": [],
+  "Location_Name": [],
+  "Location_Details": [],
+  "Line_Usage": [],
+  "Line_Cost_Per_Unit": [],
+  "Line_Total": [],
+  "Invoice_Total": [],
+  "Emissions_Amount": [],
+  "Emissions_Unit": []
+}

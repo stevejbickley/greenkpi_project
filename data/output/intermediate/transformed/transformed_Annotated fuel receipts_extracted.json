@@ -1,0 +1,35 @@
+{
+  "Supplier_Name": [
+    "United Supermarkets"
+  ],
+  "Invoice_Number": [
+    ""
+  ],
+  "Date": [
+    "2019-09-13"
+  ],
+  "Location_Name": [
+    "Market Street #560"
+  ],
+  "Location_Details": [
+    "4425 19th St, Lubbock, TX 79407"
+  ],
+  "Line_Usage": [
+    "GROCERY"
+  ],
+  "Line_Cost_Per_Unit": [
+    ""
+  ],
+  "Line_Total": [
+    "$17.47"
+  ],
+  "Invoice_Total": [
+    "$17.47"
+  ],
+  "Emissions_Amount": [
+    ""
+  ],
+  "Emissions_Unit": [
+    ""
+  ]
+}

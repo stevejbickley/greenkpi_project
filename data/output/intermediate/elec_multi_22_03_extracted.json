@@ -1,0 +1,185 @@
+[
+    {
+        "Supplier": {
+            "Name": "Jacana Energy",
+            "Address": "PO BOX 206, MIRRIWINNI QLD 4871"
+        },
+        "InvoiceDetails": {
+            "AccountNumber": "1016616512",
+            "IssueDate": "19 Apr 2022",
+            "TaxInvoice": "3713314"
+        },
+        "Buyer": {
+            "Name": "Cross Solutions",
+            "Address": "PO BOX 206, MIRRIWINNI QLD 4871"
+        },
+        "AccountSummary": {
+            "BillingPeriod": "16 February 2022 — 31 March 2022",
+            "BalanceBroughtForward": "$0.00",
+            "NewCharges": "$1,160.47",
+            "TotalAmountDue": "$1,160.47"
+        },
+        "DirectDebit": {
+            "DueDate": "12 May 2022",
+            "TotalDue": "$1,160.47"
+        },
+        "Transactions": {
+            "OpeningBalance": "$970.08",
+            "PaymentsReceived": {
+                "Date": "22 Mar 2022",
+                "Amount": "$970.08"
+            },
+            "BalanceBroughtForward": "$0.00",
+            "NewCharges": "$1,160.47",
+            "OtherChargesDiscountsAdjustments": null,
+            "TotalCharges": "$1,160.47"
+        },
+        "PaymentOptions": {
+            "BillerCode": "246465",
+            "Ref": "10166165125"
+        },
+        "Emissions": {
+            "Amount": null,
+            "Units": null
+        }
+    },
+    {
+        "Line Usages": [
+            {
+                "NMI": "2500037735",
+                "Address": "Lot 551, 1/9 Victoria Highway, Katherine NT 0850",
+                "Charges inc GST": "$0.00"
+            },
+            {
+                "NMI": "25000781653",
+                "Address": "Lot 551, 9 Victoria Highway, Katherine NT 0850",
+                "Charges inc GST": "$513.05"
+            },
+            {
+                "NMI": "25009912042",
+                "Address": "Lot 7730, 18 Vaughan Street, Berrimah NT 0828",
+                "Charges inc GST": "$647.42"
+            }
+        ],
+        "Invoice Totals": {
+            "Total charges (inc GST of $105.50)": "$1,160.47"
+        },
+        "Contact Information": {
+            "Phone": "1800 JACANA (1800 522 262)",
+            "Website": "www.jacanaenergy.com.au",
+            "Postal Address": "GPO Box 1785, Darwin NT 0801",
+            "Email": "smallbusiness@jacanaenergy.com.au",
+            "Feedback Email": "feedback@jacanaenergy.com.au",
+            "Interpreter Service": "131 450"
+        },
+        "Location Details": null,
+        "Emissions Amounts": null,
+        "Emissions Units": null
+    },
+    {
+        "Buyer Names": null,
+        "Supplier Names": "Jacana Energy",
+        "Invoice Numbers": null,
+        "Dates": {
+            "Billing Period": "16 February 2022 – 15 March 2022",
+            "Meter Read Date": "15 March 2022",
+            "Next Approximate Meter Read Date": "15 April 2022"
+        },
+        "Location Names": "Lot 551, 9 Victoria Highway, Katherine NT 0850",
+        "Location Details": null,
+        "Line Usages": [
+            {
+                "Meter Number": "125217/1",
+                "Read Type": "Actual",
+                "Tariff": "Commercial Flat Rate",
+                "Previous Read (kWh)": 8147.0,
+                "Current Read (kWh)": 8593.0,
+                "Total Usage (kWh)": 446.0,
+                "Unit Price ($ ex GST)": 0.2819936,
+                "Total Cost ($ ex GST)": 125.76
+            },
+            {
+                "Meter Number": "125217/1",
+                "Read Type": "Actual",
+                "Tariff": "Commercial Flat Rate",
+                "Previous Read (kWh)": 94344.0,
+                "Current Read (kWh)": 95013.0,
+                "Total Usage (kWh)": 669.0,
+                "Unit Price ($ ex GST)": 0.2819936,
+                "Total Cost ($ ex GST)": 188.65
+            },
+            {
+                "Meter Number": "125213/1",
+                "Read Type": "Actual",
+                "Tariff": "Commercial Flat Rate",
+                "Previous Read (kWh)": 45561.0,
+                "Current Read (kWh)": 46026.0,
+                "Total Usage (kWh)": 465.0,
+                "Unit Price ($ ex GST)": 0.2819936,
+                "Total Cost ($ ex GST)": 131.12
+            }
+        ],
+        "Supply Charges": {
+            "Fixed Daily Charge": {
+                "Number of Days": 28,
+                "Unit Price ($ ex GST)": 0.7458181,
+                "Total Cost ($ ex GST)": 20.88
+            }
+        },
+        "Invoice Totals": {
+            "Total Charges (ex GST)": 466.41,
+            "GST (on new charges)": 46.64,
+            "Total Charges (incl GST)": 513.05
+        },
+        "Emissions Amounts": null,
+        "Emissions Units": null
+    },
+    {
+        "Buyer Names": null,
+        "Supplier Names": "Jacana Energy",
+        "Invoice Numbers": null,
+        "Dates": {
+            "Billing Period": "1 March 2022 – 31 March 2022",
+            "Meter Read Date": "31 March 2022",
+            "Next Approximate Meter Read Date": "4 May 2022"
+        },
+        "Location Names": "Lot 7730, 18 Vaughan Street, Berrimah NT 0828",
+        "Location Details": null,
+        "Line Usages": [
+            {
+                "Meter Number": "256220/1",
+                "Meter Read Type": "Actual",
+                "Tariff": "Commercial Flat Rate",
+                "Previous Read (kWh)": 0.0,
+                "Current Read (kWh)": 2,
+                "Total Usage (kWh)": 2,
+                "Unit Price (ex GST)": 0.21898136,
+                "Total Cost (ex GST)": 0.0
+            },
+            {
+                "Meter Number": "256220/3",
+                "Meter Read Type": "Actual",
+                "Tariff": "Non Standard PV Buyback",
+                "Previous Read (kWh)": 0.0,
+                "Current Read (kWh)": 5.71,
+                "Total Usage (kWh)": 5.71,
+                "Unit Price (ex GST)": 0.0,
+                "Total Cost (ex GST)": 0.0
+            }
+        ],
+        "Line Cost Per Units": null,
+        "Line Totals": null,
+        "Invoice Totals": {
+            "Fixed Daily Charge": {
+                "Number of Days": 31,
+                "Unit Price (ex GST)": 0.7458181,
+                "Total Cost (ex GST)": 23.12
+            },
+            "Total Charges (ex GST)": 588.56,
+            "GST (on new charges)": 58.86,
+            "Total Charges (incl GST)": 647.42
+        },
+        "Emissions Amounts": "1.150 kg CO2-e",
+        "Emissions Units": "kg CO2-e"
+    }
+]

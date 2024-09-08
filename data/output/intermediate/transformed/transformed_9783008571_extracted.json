@@ -1,0 +1,41 @@
+{
+  "Supplier_Name": [
+    "Coles Supermarkets"
+  ],
+  "Invoice_Number": [
+    ""
+  ],
+  "Date": [
+    "2023-10-14"
+  ],
+  "Location_Name": [
+    "Coles"
+  ],
+  "Location_Details": [
+    "Cnr Pacific Hwy & Park Ave, Coffs Harbour"
+  ],
+  "Line_Usage": [
+    "1kg",
+    "2L",
+    "1 loaf"
+  ],
+  "Line_Cost_Per_Unit": [
+    "3.00",
+    "2.50",
+    "2.00"
+  ],
+  "Line_Total": [
+    "3.00",
+    "2.50",
+    "2.00"
+  ],
+  "Invoice_Total": [
+    "7.50"
+  ],
+  "Emissions_Amount": [
+    ""
+  ],
+  "Emissions_Unit": [
+    ""
+  ]
+}

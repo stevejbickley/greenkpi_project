@@ -1,0 +1,31 @@
+[
+    {
+        "Supplier Names": "Coles Supermarkets",
+        "Location Names": "Coles",
+        "Location Details": "Cnr Pacific Hwy & Park Ave, Coffs Harbour",
+        "Dates": "22/10/23",
+        "Line Items": [
+            {
+                "Description": "Bananas",
+                "Quantity": "1.052 kg",
+                "Cost Per Unit": "3.50/kg",
+                "Line Total": "3.68"
+            },
+            {
+                "Description": "Tomatoes",
+                "Quantity": "0.668 kg",
+                "Cost Per Unit": "5.90/kg",
+                "Line Total": "3.94"
+            },
+            {
+                "Description": "Red Capsicum",
+                "Quantity": "0.198 kg",
+                "Cost Per Unit": "9.90/kg",
+                "Line Total": "1.96"
+            }
+        ],
+        "Invoice Totals": "9.58",
+        "Emissions Amounts": null,
+        "Emissions Units": null
+    }
+]

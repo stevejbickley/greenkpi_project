@@ -1,0 +1,57 @@
+{
+  "Supplier_Name": [
+    "Jacana Energy",
+    "Jacana Energy",
+    "Jacana Energy"
+  ],
+  "Invoice_Number": [
+    "3713314",
+    ",",
+    ","
+  ],
+  "Date": [
+    "2022-04-19",
+    "2022-03-15",
+    "2022-03-31"
+  ],
+  "Location_Name": [
+    "Lot 551, 9 Victoria Highway, Katherine NT 0850",
+    "Lot 551, 9 Victoria Highway, Katherine NT 0850",
+    "Lot 7730, 18 Vaughan Street, Berrimah NT 0828"
+  ],
+  "Location_Details": [
+    ",",
+    ",",
+    ","
+  ],
+  "Line_Usage": [
+    "446.0 kWh",
+    "669.0 kWh",
+    "2 kWh"
+  ],
+  "Line_Cost_Per_Unit": [
+    "0.2819936",
+    "0.2819936",
+    "0.21898136"
+  ],
+  "Line_Total": [
+    "125.76",
+    "188.65",
+    "0.0"
+  ],
+  "Invoice_Total": [
+    "1160.47",
+    "513.05",
+    "647.42"
+  ],
+  "Emissions_Amount": [
+    "",
+    ",",
+    "1.150"
+  ],
+  "Emissions_Unit": [
+    "",
+    ",",
+    "kg CO2-e"
+  ]
+}
