@@ -1,0 +1,79 @@
+[
+    {
+        "Buyer Names": "Cross Solutions",
+        "Supplier Names": "Nhulunbuy Corporation",
+        "Invoice Numbers": null,
+        "Dates": {
+            "Date of Issue": "19/04/2022",
+            "Present Reading Date": "27/02/2022",
+            "Previous Reading Date": "02/12/2021",
+            "Payment Due": "19/05/2022"
+        },
+        "Location Names": "20 Whitewood Circuit",
+        "Location Details": {
+            "Lot": "887",
+            "Meter No": "71N061062",
+            "Electricity Account": "E887"
+        },
+        "Line Usages": {
+            "Present Reading": "88,254",
+            "Previous Reading": "84,934",
+            "CT Factor": "0.00",
+            "KWH's": "3,320",
+            "Tariff": "Domestic"
+        },
+        "Line Cost Per Units": null,
+        "Line Totals": {
+            "Total $": "$402.05"
+        },
+        "Invoice Totals": {
+            "Credit": "$20.46",
+            "Total Charges": "$422.51",
+            "Balance Brought Forward": "$0.00",
+            "Amount Due": "$422.51",
+            "GST Applicable on Current Charges": "$38.41"
+        },
+        "Emissions Amounts": null,
+        "Emissions Units": null
+    },
+    {
+        "Buyer Names": "Cross Solutions",
+        "Supplier Names": "Nhulunbuy Corporation",
+        "Invoice Numbers": null,
+        "Dates": {
+            "Date of Issue": "19/04/2022",
+            "Payment Due": "19/05/2022"
+        },
+        "Location Names": "16 Traeger Close",
+        "Location Details": {
+            "PO Box": "206",
+            "City": "MIRRIWINI",
+            "State": "NT",
+            "Postal Code": "4871"
+        },
+        "Line Usages": {
+            "Lot": "I11",
+            "Property Address": "16 Traeger Close",
+            "Meter No": "9104580",
+            "Present Reading": "41,201",
+            "Previous Reading": "35,053",
+            "CT Factor": "1.00",
+            "kWh": "6,148",
+            "Tariff": "Commercial"
+        },
+        "Line Cost Per Units": null,
+        "Line Totals": {
+            "Total $": "$1,213.12"
+        },
+        "Invoice Totals": {
+            "Credit": "$20.46",
+            "Fixed Charge": null,
+            "Total Charges": "$1,233.58",
+            "Balance Brought Forward": "$0.00",
+            "Amount Due": "$1,233.58",
+            "Total GST applicable on Current Charges": "$112.14"
+        },
+        "Emissions Amounts": null,
+        "Emissions Units": null
+    }
+]

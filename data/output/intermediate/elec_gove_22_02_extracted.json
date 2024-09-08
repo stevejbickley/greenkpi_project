@@ -1,0 +1,92 @@
+[
+    {
+        "Buyer Names": "Cross Solutions",
+        "Supplier Names": "Nhulunbuy Corporation",
+        "Invoice Numbers": null,
+        "Dates": {
+            "Date of Issue": "19/04/2022",
+            "Present Reading Date": "27/02/22",
+            "Previous Reading Date": "02/12/21",
+            "Payment Due": "19/05/2022"
+        },
+        "Location Names": "20 Whitewood Circuit",
+        "Location Details": {
+            "PO Box": "345",
+            "City": "Nhulunbuy",
+            "State": "NT",
+            "Postal Code": "0881",
+            "Country": "Australia"
+        },
+        "Line Usages": {
+            "Meter No": "71N061062",
+            "Present Reading": "88,254",
+            "Previous Reading": "84,934",
+            "CT Factor": "0.00",
+            "KWH's": "3,320",
+            "Tariff": "Domestic"
+        },
+        "Line Cost Per Units": null,
+        "Line Totals": {
+            "Total $": "$402.05"
+        },
+        "Invoice Totals": {
+            "Credit": "$20.46",
+            "Total Charges": "$422.51",
+            "Balance Brought Forward": "$0.00",
+            "Amount Due": "$422.51",
+            "GST Applicable on Current Charges": "$38.41"
+        },
+        "Emissions Amounts": null,
+        "Emissions Units": null
+    },
+    {
+        "Buyer": {
+            "Name": "Cross Solutions",
+            "Address": "Po Box 206, MIRRIWINI NT 4871",
+            "Email": "accounts@cross-solutions.com.au"
+        },
+        "Supplier": {
+            "Name": "Nhulunbuy Corporation",
+            "Address": "PO Box 345, Nhulunbuy NT 0881, Australia",
+            "Telephone": "(08) 8939 2200",
+            "Email": "office@cndl.net.au"
+        },
+        "Invoice": {
+            "Number": null,
+            "Date of Issue": "19/04/2022",
+            "Payment Due": "19/05/2022",
+            "Total Charges": "$1,233.58",
+            "Amount Due": "$1,233.58",
+            "Balance Brought Forward": "$0.00",
+            "Credit": "$20.46",
+            "GST Applicable": "$112.14"
+        },
+        "Electricity Account": {
+            "ID": "EI110-T1",
+            "Lot": "I11",
+            "Property Address": "16 TRAEGER CLOSE",
+            "Meter No": "9104580",
+            "Present Reading": "41,201",
+            "Previous Reading": "35,053",
+            "Reading Dates": {
+                "Present": "27/03/22",
+                "Previous": "16/12/21"
+            },
+            "CT Factor": "1.00",
+            "Usage": {
+                "kWh": "6,148",
+                "Tariff": "Commercial",
+                "Total": "$1,213.12"
+            }
+        },
+        "Payment Information": {
+            "Biller Code": "307538",
+            "Reference": "9000727413",
+            "Online Payments": "www.bnl.net.au - forms & payments tab"
+        },
+        "Emissions": {
+            "Amount": null,
+            "Units": null
+        }
+    }
+]

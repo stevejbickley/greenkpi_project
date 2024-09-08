@@ -1,0 +1,19 @@
+[
+    {
+        "Supplier Names": "United Supermarkets",
+        "Location Names": "Store #528",
+        "Location Details": "5807 SW 45th Ave, Amarillo, TX 79109",
+        "Invoice Numbers": "null",
+        "Dates": "09/13/19",
+        "Line Items": [
+            {
+                "Line Usages": "GROCERY",
+                "Line Cost Per Units": "null",
+                "Line Totals": "$17.47"
+            }
+        ],
+        "Invoice Totals": "$17.47",
+        "Emissions Amounts": "null",
+        "Emissions Units": "null"
+    }
+]

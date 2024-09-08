@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "greenkpi-project"
+version = "0.1.0"
+description = ""
+authors = ["none"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pydantic = "^2.9.0"
+openai = "^1.44.0"
+pillow = "^10.4.0"
+psycopg2 = "^2.9.9"
+pandas = "^2.2.2"
+pymupdf = "^1.24.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

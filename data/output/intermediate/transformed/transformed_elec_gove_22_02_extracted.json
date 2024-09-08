@@ -1,0 +1,46 @@
+{
+  "Supplier_Name": [
+    "Nhulunbuy Corporation",
+    "Nhulunbuy Corporation"
+  ],
+  "Invoice_Number": [
+    ",",
+    ""
+  ],
+  "Date": [
+    "2022-04-19",
+    "2022-04-19"
+  ],
+  "Location_Name": [
+    "20 Whitewood Circuit",
+    "16 TRAEGER CLOSE"
+  ],
+  "Location_Details": [
+    "PO Box 345, Nhulunbuy, NT, 0881, Australia",
+    "PO Box 345, Nhulunbuy NT 0881, Australia"
+  ],
+  "Line_Usage": [
+    "3,320",
+    "6,148"
+  ],
+  "Line_Cost_Per_Unit": [
+    ",",
+    ""
+  ],
+  "Line_Total": [
+    "$402.05",
+    "$1,213.12"
+  ],
+  "Invoice_Total": [
+    "$422.51",
+    "$1,233.58"
+  ],
+  "Emissions_Amount": [
+    ",",
+    ""
+  ],
+  "Emissions_Unit": [
+    ",",
+    ""
+  ]
+}
