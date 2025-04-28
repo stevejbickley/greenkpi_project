@@ -1,15 +1,14 @@
-### GreenKPI Project ###
+# GreenKPI Project
 
-A project that utilizes OpenAI's Assistants and/or Chat Completions API to develop the "Misinformation Analysis Assistant" a specialized virtual assistant designed to interpret and categorize responses according to the Misinformation typology developed by Bodiuzzman Sohel, Phd Candidate in Behavioural Economics in the School of Economics and Finance at Queensland University of Technology (QUT).  
-
+A simple, proof-of-concept project that utilizes OpenAI's Assistants and/or Chat Completions API to develop the "GreenKPI Assistant" for https://www.greenkpi.com/.  
 
 ## Preparation
  
-# Navigate to the folder
+### Navigate to the folder
 
 ```cd ./greenkpi_project```
 
-# Clone the project and run the following commands:
+### Now run the following commands:
 
 ```poetry env use path_to_pyevn_python_version```
 
@@ -25,7 +24,7 @@ If using windows - to activate environment, run the following:
 
 ```poetry shell```
 
-# Next, run the following to update poetry and install ffmpeg (if required):
+### Next, run the following to update poetry and install ffmpeg (if required):
 
 ```poetry update```
 
@@ -45,12 +44,12 @@ Note: ffmpeg is open-source suite of libraries and programs for handling video, 
 ## Creating your own poetry environment
 
 
-# Initialize the existing directory (if required):
+### Initialize the existing directory (if required):
 
 ```poetry init```
 
 
-# To add a new package to your project, use:
+### To add a new package to your project, use:
 
 ```poetry add package-name```
 
